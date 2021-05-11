@@ -1,0 +1,39 @@
+html {
+    border: 20px solid #bdc3c7;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;   
+}
+
+h4 {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 135%;
+}
+
+h2 {
+    color: #2c3e50;
+    font-size: 200%;
+}
+
+p {
+    font-size: 110%;
+}
+
+.vLine {
+    border-left: 10px solid #bdc3c7;
+    padding-left: 10px;
+}
+
+hr {
+    margin-top: 4%;
+    color: bdc3c7;
+    opacity: 0.3;
+}
